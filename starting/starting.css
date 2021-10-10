@@ -1,0 +1,23 @@
+#box {
+    position: relative;
+    width: 10vw;
+    height: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    top: 50vh;
+    margin-top: -5vh;
+}
+#name {
+    display: block;
+    text-align: center;
+}
+#name-input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submit-but {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

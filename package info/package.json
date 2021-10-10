@@ -1,0 +1,14 @@
+{
+  "name": "kool-dot",
+  "version": "1.0.0",
+  "description": "idek",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aralcc",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.1.2"
+  }
+}
