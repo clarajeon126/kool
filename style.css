@@ -6,17 +6,33 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(230, 217, 233);
+    background-color:  rgb(251, 209, 162);
 }
-
-#dot {
+#player-ct {
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    float: right;
+    font-size: 2vw;
+    margin-top: 1vh;
+    margin-right: 1vw;
+}
+.dot {
     position: absolute;
     background: rgb(63, 148, 106);
     width: 2vw;
     height: 2vw;
+    border-radius: 1vw;
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    line-height: 2vw;
+    font-size: 1vw;
+    width: 2vw;
+}
+
+#my-dot {
     top:50vh;
     left:50vw;
     margin-left:-1vw;/* half width*/
     margin-top:-1vw;/* half height*/
-
 }
